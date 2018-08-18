@@ -1,19 +1,25 @@
 # Responsive-Portfolio
 
 ## Overview
-In this homework assignment for Rutgers Coding Bootcamp, students were asked to create a sample portfolio. This was built using the Bootstrap CSS Framework.
+In this homework assignment for Rutgers Coding Bootcamp, students were asked to create a sample portfolio. This was the enhancement of the portfolio I made previously with a mobile-responsive layout.
 
 ## Screenshots
-About page
+About pages
 
 ![about](about.png)
+![about2](about2.png)
+![about3](about3.png)
 
 
 Portfolio page
 
 ![portfolio](portfolio.png)
+![portfolio2](portfolio2.png)
+![portfolio3](portfolio3.png)
 
 
 Contact page
 
 ![contact](contact.png)
+![contact2](contact2.png)
+![contact3](contact3.png)
