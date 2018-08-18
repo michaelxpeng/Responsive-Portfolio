@@ -11,14 +11,14 @@ About pages
 ![about3](about3.png)
 
 
-Portfolio page
+Portfolio pages
 
 ![portfolio](portfolio.png)
 ![portfolio2](portfolio2.png)
 ![portfolio3](portfolio3.png)
 
 
-Contact page
+Contact pages
 
 ![contact](contact.png)
 ![contact2](contact2.png)
